@@ -1,0 +1,166 @@
+#content {
+	margin: auto;
+	margin-top: 40px;
+}
+
+a {
+	text-decoration: none;
+	color: #333333;
+}
+
+.left {
+	display: inline-block;
+	float: left;
+	margin-left: 75px;
+	padding-bottom: 60px;
+	width: 60%;
+}
+
+.header {
+	display: block;
+	margin-bottom: 50px;
+}
+
+.header p {
+	float: left;
+    clear: both;
+    text-align: right;
+    margin: 0;
+    width: 124px;
+    color: #333333;
+    font: italic .9em 'Open Sans', sans-serif;
+}
+
+.header p:nth-of-type(2n) {
+    float: right;
+    clear: none;
+    text-align: left;
+    width: 150px;
+    color: #333333;
+    font: .9em 'Open Sans', sans-serif;
+    padding-right: 462px;
+}
+
+.break {
+	padding-top: 12px;
+}
+
+h1 {
+	font: bold 2em 'Open Sans', sans-serif;
+	margin-left: 150px;
+	color: #333333;
+}
+
+h2 {
+	font: 1.15em 'Open Sans', sans-serif;
+	margin: 0 0 26px 150px;
+	color: #333333;
+}
+
+#main {
+	margin-top: 25px;
+	float: left;
+}
+
+#main p {
+	float: left;
+    clear: both;
+    text-align: right;
+    margin: 0;
+    width: 125px;
+    color: #333333;
+    font: italic .9em 'Open Sans', sans-serif;
+}
+
+#main h3 {
+	width: 200px;
+    color: #000000;
+	font: 1em 'Open Sans', sans-serif;
+    padding-right: 336px;
+	text-transform: uppercase;
+	margin: 25px 0 35px 150px;
+
+}
+
+#main h4 {
+    float: left;
+    clear: none;
+    text-align: left;
+    width: 536px;
+	font: 600 1em 'Open Sans', sans-serif;
+	margin: 0 0 2px 25px;
+}
+
+#main h5 {
+	float: left;
+	font: italic 1em 'Open Sans', sans-serif;
+	margin-left: 150px;
+	color: #333333;
+}
+
+#main h6 {
+	margin: 15px 0 25px 150px;
+	float: left;
+	font: .9em 'Open Sans', sans-serif;
+	color: #333333;
+
+}
+
+.left ul {
+	list-style-image: url('../images/bullet.png');
+	padding-left: 10px;
+	margin: 15px 0 25px 150px;
+	float: left;
+	color: #333333;
+}
+
+.left ul li {
+	font: .9em 'Open Sans', sans-serif;
+}
+
+.right {
+	display: inline;
+	float: left;
+	margin: 96px 0 0 40px;
+	
+}
+
+#right_topper {
+	margin-top: 136px;
+}
+
+.right h3 {
+	font: 1em 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	margin: 20px 0;
+	color: #000000;
+}
+
+.right p {
+	font: .8em 'Open Sans', sans-serif;
+	color: #333333;
+}
+
+.right ul {
+	list-style-image: url('../images/bullet.png');
+	padding-left: 10px;
+}
+
+.right ul li {
+	font: .8em 'Open Sans', sans-serif;
+}
+
+.right p.edu {
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+sup {font-size:xx-small; vertical-align:super;}
+
+.toggle2, .toggle3, .toggle4, .toggle5, .toggle6 {
+	display: none;
+}
+
+#main a:hover {
+	color: #2D79C5;
+}

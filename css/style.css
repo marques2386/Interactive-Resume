@@ -157,9 +157,9 @@ h2 {
 
 sup {font-size:xx-small; vertical-align:super;}
 
-.toggle2, .toggle3, .toggle4, .toggle5, .toggle6 {
+/*.toggle1, .toggle2, .toggle3, .toggle4, .toggle5, .toggle6 {
 	display: none;
-}
+}*/
 
 #main a:hover {
 	color: #2D79C5;
